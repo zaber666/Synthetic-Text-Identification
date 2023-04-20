@@ -4,7 +4,7 @@ This is the final project of course CSE472(Machine Leanring Sessional). It was d
 - [Sheikh Saifur Rahman](https://github.com/Srj)
 - [Zaber Ibn Abdul Hakim](https://github.com/zaber666)
 
-In recent times, ChatGPT has taken the world by storm. It has been also seen to be used in writing assignments, papers, essays etc. which was supposed to be an indicator of an individual's capability. That's why it has become important to be able to trace the footprints left by a model while generating a text. In this project, we tried to come to a conclusion, if there is any such fingerprint and if it is detectable by a model.
+In recent times, ChatGPT has taken the world by storm. It has been also seen to be used in writing assignments, papers, essays etc. which was supposed to be an indicator of an individual's capability. That's why it has become important to be able to trace the footprints left by a model while generating a text. In this project, we tried to come to a conclusion, if there is any such footprint and if it is detectable by a model.
 
 The pipeline of our procedure is like below:
 ![Approach.png](./project.png)
@@ -17,4 +17,4 @@ We used the following datasets for generating samples,
 ### Classification Performance
 | Model                | AUC on Train | AUC on Validation |
 | :---------------------- | :--------: | :---------: | 
-| distilbert-base-uncased     |    81.6    |    76.3     | 
+| distilbert-base-uncased     |    81.6    |    78.3     | 
